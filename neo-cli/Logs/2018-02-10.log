@@ -1,0 +1,4 @@
+[06:18:30] timeout: height=5698 view=0 state=Backup, ViewChanging
+[06:18:30] request change view: height=5698 view=0 nv=8 state=Backup, ViewChanging
+[09:25:04] timeout: height=5698 view=0 state=Backup, ViewChanging
+[09:25:04] request change view: height=5698 view=0 nv=9 state=Backup, ViewChanging

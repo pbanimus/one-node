@@ -1,0 +1,12 @@
+System.IO.IOException
+Input/output error
+   at Interop.ThrowExceptionForIoErrno(ErrorInfo errorInfo, String path, Boolean isDirectory, Func`2 errorRewriter)
+   at Interop.CheckIo(Int64 result, String path, Boolean isDirectory, Func`2 errorRewriter)
+   at System.IO.StdInReader.ReadKey(Boolean& previouslyProcessed)
+   at System.IO.StdInReader.ReadLine(Boolean consumeKeys)
+   at System.IO.StdInReader.ReadLine()
+   at System.IO.SyncTextReader.ReadLine()
+   at System.Console.ReadLine()
+   at Neo.Services.ConsoleServiceBase.RunConsole()
+   at Neo.Services.ConsoleServiceBase.Run(String[] args)
+   at Neo.Program.Main(String[] args)
