@@ -15,14 +15,11 @@ sudo apt-get update
 
 sudo apt-get install dotnet-sdk-2.1.4
 
-
 sudo dotnet neo-cli.dll --rpc
 
-
+create wallet walletname.db3
 
 open wallet  walletname.db3
-enter password
-
 
 start consensus
 
